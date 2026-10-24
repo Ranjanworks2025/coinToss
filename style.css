@@ -98,7 +98,7 @@ body h1{
     animation-delay:1ms;
     animation-iteration-count: infinite;
     animation-direction: normal;
-    /* visibility: hidden; */
+    visibility: hidden;
 }
 .coin-back h1{
     position: absolute;
